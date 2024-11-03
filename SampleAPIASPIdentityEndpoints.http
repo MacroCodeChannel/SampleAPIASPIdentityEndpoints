@@ -1,0 +1,6 @@
+@SampleAPIASPIdentityEndpoints_HostAddress = http://localhost:5273
+
+GET {{SampleAPIASPIdentityEndpoints_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
